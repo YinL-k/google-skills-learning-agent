@@ -1,0 +1,30 @@
+{
+  "name": "google-skills-learning-agent",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Guarded local learning agent for Google Skills course/lab pages.",
+  "type": "module",
+  "scripts": {
+    "check-env": "tsx scripts/check-env.ts",
+    "start-edge-cdp": "powershell -ExecutionPolicy Bypass -File scripts/start-edge-cdp.ps1",
+    "connect-edge": "tsx scripts/connect-edge.ts",
+    "inspect-tabs": "tsx scripts/inspect-tabs.ts",
+    "inspect-page": "tsx scripts/inspect-page.ts",
+    "extract-course-state": "tsx scripts/extract-course-state.ts",
+    "snapshot-page": "tsx scripts/snapshot-page.ts",
+    "click-by-text": "tsx scripts/click-by-text.ts",
+    "run-safe-action": "tsx scripts/run-safe-action.ts",
+    "test:classifier": "tsx scripts/test-classifier.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,39 @@
+# Course Progress
+
+- Course title: Deploy Multi-Agent Systems with Agent Development Kit (ADK) and Agent Engine
+- Current module: Develop agents with ADK
+- Current lesson/lab: Get Started with Agent Development Kit (ADK)
+- Completed sections:
+  - Course introduction
+  - Introducing Agent Development Kit (ADK)
+  - Get Started with Agent Development Kit (ADK), GENAI104 lab
+  - Empower ADK agents with tools, GENAI105 lab
+  - Build Multi-Agent Systems with ADK, GENAI106 lab
+  - Deploy ADK agents to Agent Engine, GENAI107 lab
+  - Use Model Context Protocol (MCP) Tools with ADK Agents, GENAI124 lab
+  - Connect to Remote Agents with ADK and the Agent2Agent (A2A) SDK, GENAI120 lab
+- Blocked sections:
+  - Module quizzes require manual handling
+- Quiz/assessment pages requiring manual action:
+  - Module quiz after the first two intro videos
+  - Next item after GENAI106: quiz `606595`
+  - Next item after GENAI107: quiz `606598`
+  - Later module quizzes in the course
+- Last verified state:
+  - GENAI104 lab checkpoints: 100/100
+  - ADK Web UI checkpoint: 40/40
+  - Programmatic agent checkpoint: 40/40
+  - Multi-agent preview checkpoint: 20/20
+  - GENAI106 lab checkpoints: 100/100
+  - GENAI106 final Task 6 workflow produced box office, casting, and pitch file output.
+  - GENAI106 fresh rerun on 2026-05-29: 100/100.
+  - GENAI107 lab checkpoints: 100/100
+  - GENAI107 deployed, queried, and deleted an Agent Engine resource.
+  - GENAI124 lab checkpoints: 100/100
+  - GENAI124 final MCP server exercise produced a `load_web_page` tool call and example.com response.
+  - GENAI120 lab checkpoints: 100/100
+  - GENAI120 deployed an ADK agent as an A2A Cloud Run server and connected it as a remote sub-agent.
+- Next action:
+  - Before the next lab, consult `LAB_EXECUTION_KNOWLEDGE.md`.
+  - Stop at quiz pages `606595`/`606598`; user handles quiz/assessment manually.
+  - After the quiz, continue to the next non-quiz activity and stop for new timed-lab start blockers.

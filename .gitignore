@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.tools/
+.edge-profile/
+snapshots/
+*.log
+.env
+.env.*

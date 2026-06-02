@@ -1,0 +1,15 @@
+{
+  "edgeCdpUrl": "http://127.0.0.1:9222",
+  "edgeExecutablePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "edgeUserDataDir": ".edge-profile",
+  "snapshotDir": "snapshots",
+  "redaction": {
+    "redactProjectIds": true,
+    "redactCredentials": true
+  },
+  "automation": {
+    "allowCloudShellCommands": true,
+    "requireLabProjectConfidence": true,
+    "retryNonRiskyActionsOnce": true
+  }
+}
