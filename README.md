@@ -1,3 +1,5 @@
+![Google Skills Learning Agent](assets/learning-agent.png)
+
 # Google Skills Learning Agent
 
 Guarded MVP automation scaffold for reading Google Skills course/lab pages, extracting current state, validating safe next actions, and maintaining learning notes.
