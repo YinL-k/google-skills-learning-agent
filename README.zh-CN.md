@@ -1,4 +1,4 @@
-![Google Skills Learning Agent](assets/learning-agent.png)
+![Google Skills Learning Agent 中文版](assets/learning-agent-cn.png)
 
 # Google Skills Learning Agent
 
