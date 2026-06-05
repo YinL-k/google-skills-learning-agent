@@ -43,6 +43,13 @@ npm run extract-course-state
 
 This project reads visible content, classifies page/action risk, and logs learning progress. It does not answer official quizzes, submit assessments, bypass platform restrictions, use personal Google Cloud credentials, or proceed through ambiguous billing/account/project states.
 
+## Project Origin
+
+This project was built from an initial autonomous learning-agent prompt and a phased MVP implementation plan.
+
+- [Project Prompt](docs/PROJECT_PROMPT.md)
+- [MVP Implementation Plan](docs/MVP_IMPLEMENTATION_PLAN.md)
+
 ## Reusable Lab Knowledge
 
 Before running another Google Skills lab, review `LAB_EXECUTION_KNOWLEDGE.md`. Add a new dated entry when a lab introduces a workflow or failure mode that is not already covered.
